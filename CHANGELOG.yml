@@ -1,8 +1,9 @@
 upcoming:
-  - Fixes stubbed credit card tokenization. [ash]
-  - Removes credit card requirement for flagged sales. [ash & erik]
+- Fixes stubbed credit card tokenization. [ash]
+- Removes credit card requirement for flagged sales. [ash & erik]
 
 releases:
+
 - version: 5.9.3
   date: February 07 2018
   notes:
@@ -466,6 +467,8 @@ releases:
   - Bid fulfillment shows in a popover [orta]
   - Bid Fulfillment flow is prototypical via the bottom buttons [orta]
   - Analytics / Hockey setup [orta]
+
+
 
 
 
